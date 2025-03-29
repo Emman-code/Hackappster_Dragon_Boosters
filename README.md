@@ -66,7 +66,6 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 For inquiries and contributions, reach out via:
 
-Email: your-email@example.com
+Email: emman.cnr@gmail.com
 
-GitHub Issues: Repository Issues
 
